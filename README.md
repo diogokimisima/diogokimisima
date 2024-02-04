@@ -9,6 +9,7 @@
 
 * 🌱 Atualmente estudando Back-end
 * 📫 Contate-me: dkimisima@gmail.com
+* 👨🏼‍💻 Cursando em Analise de Desenvolvimento de Sistemas
 * 🚀 Estudante de desenvolvimento FullStack na DevMedia
 
 ### 📊 Metas para 2024:
