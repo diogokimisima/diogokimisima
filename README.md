@@ -4,7 +4,7 @@
 
 <br/>
 
-*Sou um desenvolvedor front-end. Minha jornada na programação começou há pouco tempo, mas desde então tenho trabalhado diligentemente para aprimorar minhas habilidades e conhecimentos. Estou familiarizado com bibliotecas e frameworks populares, como React, que me permitiram desenvolver projetos mais complexos e dinâmicos.*
+*Sou um desenvolvedor front-end. Minha jornada na programação começou há 2 anos, mas desde então tenho trabalhado diligentemente para aprimorar minhas habilidades e conhecimentos. Estou familiarizado com bibliotecas e frameworks populares, como React, que me permitiram desenvolver projetos mais complexos e dinâmicos.*
 
 
 * 🌱 Atualmente estudando Back-end
