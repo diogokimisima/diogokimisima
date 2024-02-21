@@ -26,7 +26,11 @@
 - Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
- 
+
+ - Back-end
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+  
  - Ferramentas e plataformas
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
