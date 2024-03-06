@@ -16,6 +16,7 @@
 
 * 👨🏼‍💻 Estar trabalhando no mercado nessa area de programção
 * 📂 Expandir meu portfolio
+* 📚 Ser desenvolvedor Full-Stack
 
 ### ⚡ Tecnologias:
 
