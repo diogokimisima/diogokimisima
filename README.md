@@ -12,7 +12,7 @@
 * 👨🏼‍💻 Cursando em Analise de Desenvolvimento de Sistemas
 * 🚀 Estudante de desenvolvimento FullStack na DevMedia
 
-### 📊 Metas para 2024:
+### 📊 Metas para 2025:
 
 * 👨🏼‍💻 Estar trabalhando no mercado nessa area de programção
 * 📂 Expandir meu portfolio
