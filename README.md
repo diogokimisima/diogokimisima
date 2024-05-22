@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, sou Diogo Kimisima <br/> Desenvolvedor Front-End </h1>
 
-### 🐼 Sobre Mim: 
+###  Sobre Mim: 
 
 <br/>
 
