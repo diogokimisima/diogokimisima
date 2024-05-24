@@ -9,7 +9,7 @@
   
   Para mim, um bom código, significa código que pode ser facilmente lido, entendido, mantido e dimensionado por desenvolvedores de qualquer nível.
 
-  ### Acesse meu [Portfólio](https://portfolio-dkimisima.vercel.app)
+  ### Acesse meu <a href="https://portfolio-dkimisima.vercel.app" target="_blank">Portfólio</a>
   </p>
 </div>
 
