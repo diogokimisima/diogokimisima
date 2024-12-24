@@ -53,6 +53,7 @@ Linguagens:
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogokimisima&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gatoledo1" />
   </p>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=diogokimisima)](https://git.io/streak-stats)
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=diogokimisima&theme=dark&hide_border=true" alt="GitHub Streak" />
+
 </div>
 <br>
