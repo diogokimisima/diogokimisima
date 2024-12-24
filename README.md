@@ -4,10 +4,9 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
   <p align="left"> 
-  Cursando Tecnologia em Analise de desenvolvimento de Sistemas.
-  Sou Desenvolvedor Web há 2 anos, sendo 1 ano com ReactJS. Nesse tempo aprendi que não basta ser excelente na codificação, também é necessário ser alguém que possa compartilhar conhecimento com a equipe, pois crescer em conjunto é a forma mais eficiente de melhorar a capacidade de um projeto, tornando a entrega contínua uma realidade para qualquer equipe.
-  
-  Para mim, um bom código, significa código que pode ser facilmente lido, entendido, mantido e dimensionado por desenvolvedores de qualquer nível.
+  Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Júnior Full Stack, com 3 anos de experiência no desenvolvimento web. Nesse período, aprendi que ser excelente na codificação é apenas parte do caminho. É igualmente essencial compartilhar conhecimento com a equipe, pois o crescimento coletivo é a forma mais eficiente de elevar a qualidade de um projeto e tornar a entrega contínua uma realidade para qualquer time.
+
+Para mim, um bom código é aquele que pode ser facilmente lido, entendido, mantido e escalado por desenvolvedores de qualquer nível de experiência. Acredito que a clareza e a simplicidade são tão importantes quanto a funcionalidade, garantindo que o trabalho seja sustentável a longo prazo.
 
   ### Acesse meu <a href="https://portfolio-dkimisima.vercel.app" target="blank">Portfólio</a>
   </p>
@@ -17,18 +16,23 @@
 Linguagens:
 </h2>
 
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 )
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 )
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white
 )
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
