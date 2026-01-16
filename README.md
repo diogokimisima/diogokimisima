@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
   <p align="left"> 
-  Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Júnior Full Stack, com 3 anos de experiência no desenvolvimento web. Nesse período, aprendi que ser excelente na codificação é apenas parte do caminho. É igualmente essencial compartilhar conhecimento com a equipe, pois o crescimento coletivo é a forma mais eficiente de elevar a qualidade de um projeto e tornar a entrega contínua uma realidade para qualquer time.
+  Formado em Tecnologia em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, com 4 anos de experiência no desenvolvimento web. Nesse período, aprendi que ser excelente na codificação é apenas parte do caminho. É igualmente essencial compartilhar conhecimento com a equipe, pois o crescimento coletivo é a forma mais eficiente de elevar a qualidade de um projeto e tornar a entrega contínua uma realidade para qualquer time.
 
 Para mim, um bom código é aquele que pode ser facilmente lido, entendido, mantido e escalado por desenvolvedores de qualquer nível de experiência. Acredito que a clareza e a simplicidade são tão importantes quanto a funcionalidade, garantindo que o trabalho seja sustentável a longo prazo.
 
