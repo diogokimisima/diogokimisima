@@ -4,9 +4,13 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
   <p align="left"> 
-  Formado em Tecnologia em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, com 4 anos de experiência no desenvolvimento web. Nesse período, aprendi que ser excelente na codificação é apenas parte do caminho. É igualmente essencial compartilhar conhecimento com a equipe, pois o crescimento coletivo é a forma mais eficiente de elevar a qualidade de um projeto e tornar a entrega contínua uma realidade para qualquer time.
+  Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas e pós-graduado em Golang, com foco em desenvolvimento de microsserviços, concorrência e arquitetura de sistemas escaláveis. Atuo como Desenvolvedor Full Stack com 4 anos de experiência no desenvolvimento web.
 
-Para mim, um bom código é aquele que pode ser facilmente lido, entendido, mantido e escalado por desenvolvedores de qualquer nível de experiência. Acredito que a clareza e a simplicidade são tão importantes quanto a funcionalidade, garantindo que o trabalho seja sustentável a longo prazo.
+Durante minha especialização, aprofundei conhecimentos em desenvolvimento de APIs (REST, gRPC e GraphQL), mensageria com RabbitMQ, bancos de dados SQL/NoSQL, além de práticas como Clean Architecture, SOLID, testes automatizados e deploy com Docker e Kubernetes.
+
+Ao longo da minha trajetória, entendi que escrever código de qualidade é apenas parte do processo. Compartilhar conhecimento com o time é essencial, pois o crescimento coletivo é o que realmente eleva o nível dos projetos e torna a entrega contínua algo natural.
+
+Para mim, um bom código vai além de funcionar: ele precisa ser claro, simples e fácil de manter. Deve ser compreendido e evoluído por desenvolvedores de qualquer nível, garantindo escalabilidade e sustentabilidade a longo prazo.
 
   ### Acesse meu <a href="https://portfolio-dkimisima.vercel.app" target="blank">Portfólio</a>
   </p>
